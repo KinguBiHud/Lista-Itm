@@ -1,0 +1,12 @@
+/generatequests - Dai reset la /quests zilnice.
+/debugrepo (0 sau 1) - Începi misiunea Repo Work (debug misiunea Simeon)
+/debugdrop [ammout]- Spawnezi un Drop pe hartă (debug airdrop).
+/debugdragon [ammount] - Spawnezi un Clan Drop pe hartă (debug clan drop).
+/getquestid [id] - Îți dai un anumit quest zilnic din Lista.
+/debugdrugpl - Debug pentru plante la droguri. (dupa ce le-ai plantat)
+/debuggift - Debug pentru comanda /getgift
+/debugdrugpl - Iti seteaza timpul de procesare a plantelor de la drugs la 1 minut
+/resetachiv - Reset achievements
+/debuggfinal - seteaza toate femeile inafara de ultimele 5 si este nevoie de relog dupa ce este folosita
+/debugrepocount (/debugcountrepo) - setezi cate repo ai facut
+/startdd -/stopdd - Pornesti/Opresti evenimentul cu Double Item Drop Rate
