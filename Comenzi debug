@@ -10,3 +10,5 @@
 /debuggfinal - seteaza toate femeile inafara de ultimele 5 si este nevoie de relog dupa ce este folosita
 /debugrepocount (/debugcountrepo) - setezi cate repo ai facut
 /startdd -/stopdd - Pornesti/Opresti evenimentul cu Double Item Drop Rate
+/debugfuel - sa iti setezi cit fuel vrei tu la masina (0 - 100)
+
