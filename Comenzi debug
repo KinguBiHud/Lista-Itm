@@ -11,4 +11,4 @@
 /debugrepocount (/debugcountrepo) - setezi cate repo ai facut
 /startdd -/stopdd - Pornesti/Opresti evenimentul cu Double Item Drop Rate
 /debugfuel - sa iti setezi cit fuel vrei tu la masina (0 - 100)
-
+/debugemerg id -> id-uri de la 0 - 547
