@@ -12,3 +12,7 @@
 /startdd -/stopdd - Pornesti/Opresti evenimentul cu Double Item Drop Rate
 /debugfuel - sa iti setezi cit fuel vrei tu la masina (0 - 100)
 /debugemerg id -> id-uri de la 0 - 547
+/debugrob -> Itm + rob points pt rob ATM
+/debugrob2 -> Itm + rob points pt rob muzeu
+/debugstunts - Iti reseteaza stunturile
+/set reflevel - Iti setezi referal level (1 - 5)
